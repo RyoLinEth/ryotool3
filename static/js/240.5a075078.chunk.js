@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkelstar=self.webpackChunkelstar||[]).push([[240],{454:function(e,s,a){a.r(s);var l=a(1413),n=(a(2791),a(4967)),t=a(4443),u=a(3329);s.default=function(e){return(0,u.jsxs)("div",{className:"app-layout-blank flex flex-auto flex-col h-[100vh]",children:[(0,u.jsx)(n.Z,(0,l.Z)({},e)),(0,u.jsx)(t.Z,{className:"hidden"})]})}}}]);
+//# sourceMappingURL=240.5a075078.chunk.js.map

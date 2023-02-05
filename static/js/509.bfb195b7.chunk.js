@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkelstar=self.webpackChunkelstar||[]).push([[509],{9509:function(e,n,u){u.r(n);u(2791);var r=u(3329);n.default=function(){return(0,r.jsx)("div",{children:"GroupSingleMenuItemView"})}}}]);
+//# sourceMappingURL=509.bfb195b7.chunk.js.map

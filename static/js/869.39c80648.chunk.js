@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkelstar=self.webpackChunkelstar||[]).push([[869],{2869:function(e,t,r){r.r(t);r(2791);var n=r(3329);t.default=function(){return(0,n.jsx)("div",{style:{justifyContent:"center",alignItems:"center",display:"flex",height:"70vh",wordBreak:"break-word",textAlign:"center"},children:(0,n.jsxs)("h1",{children:["Welcome to Ryo Tool",(0,n.jsx)("br",{}),"(\u9650\u6642\u514d\u8cbb)"]})})}}}]);
+//# sourceMappingURL=869.39c80648.chunk.js.map

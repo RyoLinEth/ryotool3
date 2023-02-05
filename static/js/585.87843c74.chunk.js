@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkelstar=self.webpackChunkelstar||[]).push([[585],{4585:function(e,n,s){s.r(n);s(2791);var t=s(3329);n.default=function(){return(0,t.jsx)("div",{children:"CollapseMenuItemView2-2"})}}}]);
+//# sourceMappingURL=585.87843c74.chunk.js.map
